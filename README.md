@@ -1,4 +1,4 @@
-# GEC-pko-t5
+# GEC
 Korean Grammatical Error Correction Based on Transformer
 
 해당 프로젝트는 STT(Speech to Text) 이후
